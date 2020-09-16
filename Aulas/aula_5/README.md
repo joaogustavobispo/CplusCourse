@@ -1,4 +1,4 @@
-# Aula 5 - Instalando a IDE
+# Aula 5 - Analisando o Primeiro Código
 
 ## Sobre a aula
 > O começo foi explicando o código feito na aula anterior, detalhe por detalhe. Foi ensinado umas definições:
