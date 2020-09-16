@@ -1,4 +1,4 @@
-# Aula 4 - Instalando a IDE
+# Aula 4 - Primero Código
 
 ## Sobre a aula
 > Nada demais dessa aula, apesar que eu não entendi quase nada dela, por que não tinha som e legenda fica traduzindo umas coisas e não fazia muito sentido o que estava acontecendo.<br>O único comando que aprendi foi um print, mas não sei exatamente como funciona. 
