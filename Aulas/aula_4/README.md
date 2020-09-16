@@ -1,10 +1,10 @@
 # Aula 4 - Primero Código
 
 ## Sobre a aula
-> Nada demais dessa aula, apesar que eu não entendi quase nada dela, por que não tinha som e legenda fica traduzindo umas coisas e não fazia muito sentido o que estava acontecendo.<br>O único comando que aprendi foi um print, mas não sei exatamente como funciona. 
+> Bem interessante, apesar de não ser detalhista, não deu para entender como funciona exatamente, mas aparentemente vai ser explicado mais a frente
 
 ## Opinião
-> Aula sem som é complicado, básicamente copiei o que estava a tela e não sei o que to fazendo. 
+> Poderia explicar mais, especialmente como funciona e o que o código faz.
 
 ## Mudanças
-> Verificar o som da aula antes de lançar ela seria uma boa mudança.
+> Só nos detalhes mesmo, explicar melhor como funciona e o que faz o código.
